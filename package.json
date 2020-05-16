@@ -18,7 +18,7 @@
     "email": "dano.husar@gmail.com"
   },
   "dependencies": {
-    "uglify-js": "2.2.3",
+    "uglify-js": "2.8.29",
     "underscore" : ">=1.1.7"
   },
   "repository": {
